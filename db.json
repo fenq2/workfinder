@@ -1,0 +1,62 @@
+{
+  "clients" : {
+    "-Mfd1e7uNC3r4vvvqtmC" : {
+      "description" : "топ компани",
+      "location" : "долина",
+      "position" : "Джун",
+      "price" : "1337$",
+      "type" : "аутсорс",
+      "сompany" : "гугл"
+    }
+  },
+  "vacancies" : {
+    "0" : {
+      "company" : "Google inc.",
+      "description" : "Какое-то длинное описание вакансии со всеми ее преимуществами, и.т.д. Какое-то длинное описание вакансии со всеми ее преимуществами, и.т.д. Какое-то длинное описание вакансии со всеми ее преимуществами, и.т.д. Какое-то длинное...",
+      "location" : "Одесса, Украина",
+      "position" : "Senior Frontend Developer",
+      "price" : "3000$ - 4000$",
+      "type" : "Веб-студия"
+    },
+    "1" : {
+      "company" : "Facebook inc.",
+      "location" : "Одесса, Украина",
+      "position" : "Middle Frontend Developer",
+      "price" : "1000$ - 2000$"
+    },
+    "2" : {
+      "company" : "Google inc.",
+      "location" : "Одесса, Украина",
+      "position" : "Junior Frontend Developer",
+      "price" : "500$"
+    },
+    "3" : {
+      "company" : "Google inc.",
+      "location" : "Одесса, Украина",
+      "position" : "Senior Frontend Developer",
+      "price" : "3000$ - 4000$"
+    },
+    "4" : {
+      "company" : "Google inc.",
+      "location" : "Одесса, Украина",
+      "position" : "Senior Frontend Developer",
+      "price" : "3000$ - 4000$"
+    },
+    "-Mfd1ojY6vvZ2uq6Emql" : {
+      "description" : "топ компани",
+      "location" : "долина",
+      "position" : "Джун",
+      "price" : "1337$",
+      "type" : "аутсорс",
+      "сompany" : "гугл"
+    },
+    "-Mgvj5CuH4Vg3eHFusDL" : {
+      "description" : "Задрот",
+      "location" : "Ивановка",
+      "position" : "Синьоор",
+      "price" : "5645",
+      "type" : "галера",
+      "сompany" : "Синьор-помидор"
+    }
+  }
+}
